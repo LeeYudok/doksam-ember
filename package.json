@@ -2,7 +2,7 @@
   "name": "doksam-ember",
   "displayName": "doksam Ember",
   "description": "A soothing, warm earthy color theme — terracotta accents on a cream canvas, inspired by natural clay tones.",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "publisher": "dok123",
   "author": {
     "name": "덕삼ol"
@@ -35,6 +35,11 @@
         "label": "doksam Ember Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/doksam-ember-dark-color-theme.json"
+      },
+      {
+        "label": "doksam Ember Bloom",
+        "uiTheme": "vs",
+        "path": "./themes/doksam-ember-bloom-color-theme.json"
       }
     ]
   },
